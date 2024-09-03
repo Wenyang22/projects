@@ -43,7 +43,7 @@ Hi, I'm a senior full-stack developer with over 8 years of diverse experience de
 **Role: Senior Front End Engineer** As a Senior Frontend Engineer, I developed React components based on Figma designs for the frontend, ensuring a responsive and pixel-perfect implementation. I optimized performance and successfully integrated with backend APIs while collaborating with my teammates to develop new features. We maintained clear communication throughout the process and utilized Redux for effective state management. To ensure high performance and reliability, I implemented unit testing, which reduced bugs by 30% before deployment. Our efforts resulted in a 25% increase in user satisfaction, as reflected in feedback and usage metrics.
 
 - **Technologies:**  React, JavaScript, Redux, Tailwind CSS, Node, Express, unit testing (Jest, React Testing Library), performance optimization, responsive design, and accessibility best practice 
-- **Live Demo:** [Live Demo Link]https://community.blackbox-vr.com/)
+- **Live Demo:** [Live Demo Link](https://community.blackbox-vr.com/)
 
 ---
 
