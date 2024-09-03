@@ -55,7 +55,7 @@ Calm aims to promote mental well-being through its diverse offerings, making it 
 **Role:Front End Engineer** As a Frontend Engineer, I was responsible for developing a user-friendly interface using React and JavaScript. I translated Figma designs into a responsive web application, ensuring a seamless user experience across devices. I implemented state management with Redux, which improved data flow and reduced loading times by 30%.
 
 - **Technologies:** React, JavaScript, Node, Express, MongoDB, AWS, React Native, Google Analytics, OAuth/OpenID, CI/CD
-- **Live Demo:** [Live Demo Link](https://allfactors.com/)
+- **Live Demo:** [Live Demo Link](https://calm.com/)
 
 ---
 
