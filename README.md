@@ -57,7 +57,7 @@ Calm aims to promote mental well-being through its diverse offerings, making it 
 - **Technologies:** React, JavaScript, Node, Express, MongoDB, AWS, React Native, Google Analytics, OAuth/OpenID, CI/CD
 - **Live Demo:** [Live Demo Link](https://allfactors.com/)
 
---
+---
 
 ### Project 5: FlexLiving
 ![Project 5 Image](./Portfolio//FlexLiving/2.jpg)
